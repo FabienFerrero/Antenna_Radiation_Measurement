@@ -1,2 +1,5 @@
 # Antenna_Radiation_Measurement
-Some tutorial and code for antenna radiation measurement
+
+Objective : This repository integrates hardware and software for low-cost antenna radiation measurement between 800 and 950 MHz.
+Two different methods with tutorial are detailed.
+
