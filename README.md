@@ -1,5 +1,8 @@
 # Antenna_Radiation_Measurement
 
+Author : Fabien Ferrero
+Last Update : 1/02/2019
+
 Objective : This repository integrates hardware and software for low-cost antenna radiation measurement between 800 and 950 MHz.
 Two different methods with tutorial are detailed.
 
