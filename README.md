@@ -1,10 +1,11 @@
-# Low Cost Antenna Radiation Measurement method for IoT System
+# Low Cost Antenna Return loss & Radiation Measurement method for IoT System
 
 Author : Fabien Ferrero
-Last Update : 1/02/2019
+Last Update : 29/01/2020
 
 Objective : This repository integrates hardware and software for low-cost antenna radiation measurement between 800 and 950 MHz.
 Two different methods with tutorial are detailed.
+29/01/2020 : You will find in tutorial directory the workshop presented in The Things conference 2020 for "Antenna tuning" based on low-cost VNA.
 
 For measurment demo, I'm using the LoRa board presented on this github : https://github.com/FabienFerrero/UCA_Board
 But this method can be adapted to any IoT device.
