@@ -7,6 +7,7 @@ Objective : This repository integrates hardware and software for low-cost antenn
 Two different methods with tutorial are detailed.
 29/01/2020 : You will find in tutorial directory the workshop presented in The Things conference 2020 for "Antenna tuning" based on low-cost VNA.
 15/04/2020 : You can find the new tutorial made for Virtual TTC
+Video is available here : https://youtu.be/OxE_F2ohXu0
 
 For measurment demo, I'm using the LoRa board presented on this github : https://github.com/FabienFerrero/UCA_Board
 But this method can be adapted to any IoT device.
